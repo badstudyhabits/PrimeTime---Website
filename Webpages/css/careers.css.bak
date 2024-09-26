@@ -1,0 +1,32 @@
+.banner1 {
+	background-color: #B1D2F9;
+	text-align: center;
+	display: inline-block;
+	padding: 0%;
+	width: 100%;
+}
+a:link {
+	color: black;
+}
+a:hover {
+	color: #91A3CF;
+}
+body {
+	background-color: #69A7F3;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.footer {
+	background-color: #B1D2F9;
+	text-align: center;
+	display: inline-block;
+	padding: 3%;
+	width: 99%;
+}
+
+
+h1 {
+	text-align: center;
+}
+.carimg {
+	margin: 10px;
+}

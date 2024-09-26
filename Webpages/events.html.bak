@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="css/events.css">
+</head>
+<body>
+<div class="banner1">
+<a href="games.html">Games</a>
+<a href="accessories.html">Accessories</a>
+<a href="contactUs.html">Contact Us</a>
+<a href="feedback.html">Feedback</a>
+<a href="about.html">About</a>
+<a href="events.html">Events</a>
+<a href="careers.html">Careers</a>
+<a href="home.html"><img src="Images/PTLogo.jpg" width="5%" height="5%" align="right"></a> 
+</div>
+<h1>Events</h1>
+<div class="eventsTable">
+<h2>Feburary 2022</h2>
+<table>
+<tr>
+<th width="10%">Name</th>
+<th width="10%">Description</th>
+<th width="10%">Location</th>
+<th width="10%">Time</th>
+<th width="10%">Date</th>
+</tr>
+<tr>
+<td>Come as you are gaming session</td>
+<td>Come one, come all, to our monthly gaming sessions. Here, we allow all gamers and their families to visit and play on all types of devices. From old arcade machines, to the latest Virtual Reality experiences.</td><br>
+<td>PrimeTime's Gaming Zone</td>
+<td>18:00 - 19:00</td>
+<td>Second Saturday of each month</td>
+</tr>
+<tr>
+<td>Trade in Scheme</td>
+<td>Feel free to pop down to our shop and trade in your old games. There will be rewards involved for the gamer who trades the most games with us.</td>
+<td>PrimeTime Stores</td>
+<td>Anytime</td>
+<td>Everyday</td>
+</tr>
+</table>
+</div>
+<div class="footer">
+&copy;Copyright 3333 PrimeTime. All rights reserved
+</div>
+</body>

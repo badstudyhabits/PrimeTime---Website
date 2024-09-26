@@ -1,0 +1,32 @@
+.banner1 {
+	background-color: #B1D2F9;
+	text-align: center;
+	display: inline-block;
+	padding: 0%;
+	width: 100%;
+}
+a:link {
+	color: #E5E6DA;
+}
+a:hover {
+	color: #D0FCD0;
+}
+body {
+	background-color: #69A7F3;
+}
+.footer {
+	background-color: #B1D2F9;
+	text-align: center;
+	display: inline-block;
+	padding: 3%;
+	width: 99%;
+}
+.news {
+	display: inline-block;
+	border: 5px inset white;
+	background-color: #E5E6DA;
+	height: 0.5%;
+	text-align: center;
+}
+
+.homeimage {

@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="css/careers.css">
+</head>
+<body>
+<div class="banner1">
+<a href="games.html">Games</a>
+<a href="accessories.html">Accessories</a>
+<a href="contactUs.html">Contact Us</a>
+<a href="feedback.html">Feedback</a>
+<a href="about.html">About</a>
+<a href="events.html">Events</a>
+<a href="careers.html">Careers</a>
+<a href="home.html"><img src="Images/PTLogo.jpg" width="5%" height="5%" align="right"></a> 
+</div>
+<div class="carimg">
+<img src="Images/PeopleCollaborating.jpg" alt="Creative staff collaborating behind the scenes." width="33%" height="33%" align="right">
+</div>
+<h1>Careers</h1>
+<p>Ever wanted to work for us? We have multiple positions availible for you to choose from. These positions range from retail, to programming, which means that there is something for everyone.</p>
+<h2>Benefits</h2>
+<p>Our staff gain different kinds of perks and benefits from working for us, such as paid time off and specific insurences depending on the situation. We also give our staff discounts on all our in-store, as well as online, games and accessories.<p>
+<br><br>
+<div class="footer">
+&copy;Copyright 3333 PrimeTime. All rights reserved
+</div>
+</body>

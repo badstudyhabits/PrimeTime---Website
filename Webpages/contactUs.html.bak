@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="css/contactUs.css">
+
+</head>
+<body>
+<div class="banner1">
+<a href="games.html">Games</a>
+<a href="accessories.html">Accessories</a>
+<a href="contactUs.html">Contact Us</a>
+<a href="feedback.html">Feedback</a>
+<a href="about.html">About</a>
+<a href="events.html">Events</a>
+<a href="careers.html">Careers</a>
+<a href="home.html"><img src="Images/PTLogo.jpg" width="5%" height="5%" align="right"></a> 
+</div>
+<h1>Contact Us</h1>
+<p>If you would like to contact us, please fill out the following form below:</p>
+<div class="container">
+<form name="myForm" >
+<div>
+<label for="fname">First Name:</label><br><input type="text" name="fname" id="fname" placeholder="Your first name">
+<div class="error"></div>
+</div>
+<div>
+<label for="lname">Last Name:</label><br><input type="text" name="lname" id="lname" placeholder="Your last name">
+<div class="error"></div>
+</div>
+<div>
+<label for="email">Email Address:</label><br><input type="text" name="email" id="email" placeholder="Your email address">
+<div class="error"></div>
+</div>
+
+<div class="row">
+<div class="queries">
+<label for="queries">Queries</label>
+</div>
+<div>
+<div class="queriestext">
+<textarea id="queries" name="queries" maxlength="140" rows="5" placeholder="Write Something.." :required>
+</textarea>
+<div class="error"></div>
+</div>
+</div>
+</div>
+<br>
+<br>
+<label>I agree to the terms and conditions of contacting PrimeTime</label><input type="checkbox"><br><br>
+	</form>
+	
+		<button class="button button1" onclick="alert('Your response has been submitted. Make sure to check your email in a few days for a response.')">
+	Submit
+</button>
+
+	</div>
+<br>
+<p>You can also contact us on our <a href="https://en-gb.facebook.com/" tabindex="2">Facebook</a> or <a href="https://twitter.com/?lang=en" tabindex="3">Twitter</a> pages.</p>
+<p>Or visit our <a href="https://www.reddit.com/">Online Forum</a> for assistance.</p>
+<div class="footer">
+&copy;Copyright 3333 PrimeTime. All rights reserved
+</div>
+</body>
+</html>

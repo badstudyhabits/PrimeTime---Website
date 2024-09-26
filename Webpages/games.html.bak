@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="css/gamesStyles.css">
+</head>
+<body>
+<div class="banner1">
+<a href="games.html">Games</a>
+<a href="accessories.html">Accessories</a>
+<a href="contactUs.html">Contact Us</a>
+<a href="feedback.html">Feedback</a>
+<a href="about.html">About</a>
+<a href="events.html">Events</a>
+<a href="careers.html">Careers</a>
+<a href="home.html"><img src="Images/PTLogo.jpg" alt="Logo" width="5%" height="5%" align="right"></a> 
+</div>
+<h1>Games</h1>
+<div class="gameproduct" align="center">
+<table>
+<th>
+<th>
+<tr>
+<td width="15%"><img src="Images/CelesteGame.jpg" width="33%" height="50%"></td>
+<td width="15%"><img src="cameraimage/MercuryTwoInOneGame.png" width="33%" height="100%"></td>
+<td width="15%"><img src="Images/FezGame.png" width="33%"></td>
+</tr>
+<tr>
+<td>Celeste</td>
+<td>Mercury</td>
+<td>FEZ</td>
+</tr>
+<tr>
+<td width="15%"><img src="Images/LegoMarvelSuperheroesGame.jpg" width="33%"</td>
+<td width="15%"><img src="Images/LBM3.jpg" width="33%"</td>
+<td width="15%"><img src="Images/CoreGame.png" width="33%"</td>
+</tr>
+<tr>
+<td>Lego Marvel Superheroes</td>
+<td>Lego Batman 3</td>
+<td>CORE</td>
+</tr>
+<tr>
+<td width="15%"><img src="Images/SamuraiGame.jpg" width="33%" align="center"</td>
+</tr>
+<tr>
+<td>Samurai</td>
+</tr>
+</table>
+</div>
+<br>
+<div class="footer">
+&copy;Copyright 3333 PrimeTime. All rights reserved
+</div>
+</body>
+</html>

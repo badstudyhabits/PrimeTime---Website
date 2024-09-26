@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="css/accessories.css">
+</head>
+<body>
+<div class="banner1">
+<a href="games.html">Games</a>
+<a href="accessories.html">Accessories</a>
+<a href="contactUs.html">Contact Us</a>
+<a href="feedback.html">Feedback</a>
+<a href="about.html">About</a>
+<a href="events.html">Events</a>
+<a href="careers.html">Careers</a>
+<a href="home.html"><img src="Images/PTLogo.jpg" width="5%" height="5%" align="right"></a> 
+</div>
+<h1>Accessories</h1>
+<div class="accessimg" align="center">
+<table>
+<th>
+<th>
+<tr>
+<td width="50%"><img src="Images/GameboyProduct.jpg" width="33%" height="33%"  alt="GameBoy"></td>
+<td width="50%"><img src="Images/PS4ControllerProduct.jpg" width="33%" height="33%" alt="Playstation 4 Controller">
+</tr>
+<tr>
+<td>Game Boy</td>
+<td>Playstation 4 Controller</td>
+</tr>
+<tr>
+<td width="50%"><img src="Images/ogqbox.jpg" width="33%" height="33%"  alt="OGQBOX"></td>
+<td width="50%"><img src="Images/NintendoSwitchProduct.jpg" width="33%" height="33%"  alt="Nintendo Switch"></td>
+</tr>
+<tr>
+<td>OG QBOX Controller</td>
+<td>Nintendo Switch Lite</td>
+</tr>
+<tr>
+<td width="50%"><img src="Images/PS3ControllerProduct.png" width="33%" height="33%"  alt="PS3 Controller"></td>
+<td width="50%"><img src="Images/GameCubeProduct.jpg" width="33%" height="33%"  alt="Gamecube"></td>
+</tr>
+<tr>
+<td>Playstation 3 Controller</td>
+<td>GameCube</td>
+</tr>
+<tr>
+<td width="50%"><img src="Images/GameBoyColourProduct.png" width="33%" height="33%"  alt="GameBoy Colour"></td>
+</tr>
+<tr>
+<td>Game Boy Colour</td>
+</tr>
+</table>
+</div>
+
+<div class="footer">
+&copy;Copyright 3333 PrimeTime. All rights reserved
+</div>
+</body>
+</html>

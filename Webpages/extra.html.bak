@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="css/homeStyle.css">
+</head>
+<body>
+<div class="banner1">
+		<a href="games.html">Games</a>
+		<a href="accessories.html">Accessories</a>
+		<a href="contactUs.html">Contact Us</a>
+		<a href="feedback.html">Feedback</a>
+		<a href="about.html">About</a>
+		<a href="events.html">Events</a>
+		<a href="careers.html">Careers</a>
+		<a href="extra.html">Navigation</a>
+	<a href="home.html"><img src="Images/PTLogo.jpg" alt="Logo" width="5%" height="5%" align="right"></a> 
+</div>
+<h1>Content</h1>
+<div class="nav" align: center>
+<ul>
+<li><a href="games.html">Games</a>
+		<li class="nav"><a href="accessories.html">Accessories</a></li>
+		<li><a href="contactUs.html">Contact Us</a></li>
+		<li><a href="feedback.html">Feedback</a></li>
+		<li><a href="about.html">About</a></li>
+		<li><a href="events.html">Events</a></li>
+		<li><a href="careers.html">Careers</a></li>
+		<li><a href="extra.html">Navigation</a></li>
+		</ul>
+		</div>
+<div class="footer">
+&copy;Copyright 3333 PrimeTime. All rights reserved
+</div>
+</body>
+</html>

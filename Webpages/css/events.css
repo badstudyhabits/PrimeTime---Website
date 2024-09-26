@@ -1,0 +1,38 @@
+.banner1 {
+	background-color: #B1D2F9;
+	text-align: center;
+	display: inline-block;
+	padding: 0%;
+	width: 100%;
+}
+a:link {
+	color: black;
+}
+a:hover {
+	color: black;
+}
+body {
+	background-color: #69A7F3;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.footer {
+	background-color: #B1D2F9;
+	text-align: center;
+	display: inline-block;
+	padding: 3%;
+	width: 99%;
+}
+.eventsTable {
+	background-color: #E5E6DA;
+	border-style: solid; border-color: black;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
+th {
+	background-color: #ebe9f0;
+}
+td {
+	background-color: #9faec7;
+}
